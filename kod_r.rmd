@@ -1,0 +1,9 @@
+```{r}
+bok_a <- 10
+
+pole_kw <- bok_a * bok_a
+
+print(paste("Pole kwadratu wynosi:",pole_kw))
+
+```
+
